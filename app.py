@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 from gallup import run_gallup
 from election import run_election
 from PIL import Image
+import numpy as np
 
 import base64
 from pathlib import Path
